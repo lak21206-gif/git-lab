@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi sanika
+=======
+hi hellooooo
+>>>>>>> 08a0e1a72b1de9623c8b4a0f2a54d99af3ee68e0
